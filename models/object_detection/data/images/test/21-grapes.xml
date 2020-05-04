@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>21-grapes.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\21-grapes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>348</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grape - (92 grams - 62 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>26</ymin>
+			<xmax>356</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

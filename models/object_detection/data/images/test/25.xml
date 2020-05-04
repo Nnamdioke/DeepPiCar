@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apples - (109 grams - 57 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>4</ymin>
+			<xmax>496</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

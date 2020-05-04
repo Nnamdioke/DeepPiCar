@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>16-mango.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\16-mango.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mango - (165 grams - 99 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>416</ymin>
+			<xmax>1162</xmax>
+			<ymax>1624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mango - (165 grams - 99 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymin>547</ymin>
+			<xmax>2400</xmax>
+			<ymax>1621</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mango - (165 grams - 99 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>174</ymin>
+			<xmax>1793</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+</annotation>

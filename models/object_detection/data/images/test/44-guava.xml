@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>44-guava.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\44-guava.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Guava - (55 grams - 38 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>19</ymin>
+			<xmax>286</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
