@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>3-banana.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\3-banana.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banana - 225 grams (200 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>232</ymin>
+			<xmax>5026</xmax>
+			<ymax>2864</ymax>
+		</bndbox>
+	</object>
+</annotation>

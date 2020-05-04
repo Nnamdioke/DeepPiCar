@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>4-avocados.jpg</filename>
+	<path>C:\Users\Jay\Documents\windows_v1.8.0\Images\4-avocados.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3220</width>
+		<height>2092</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Avocado - (146 grams - 234 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>207</ymin>
+			<xmax>2530</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Avocado - (146 grams - 234 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>43</ymin>
+			<xmax>3159</xmax>
+			<ymax>1846</ymax>
+		</bndbox>
+	</object>
+</annotation>
