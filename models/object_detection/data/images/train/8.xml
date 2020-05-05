@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>543</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pear (100 grams 54 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>54</ymin>
+			<xmax>430</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

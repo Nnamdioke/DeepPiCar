@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>9. watermelon_300x300.png</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\9. watermelon_300x300.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watermelon (152 grams - 46 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>28</ymin>
+			<xmax>279</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

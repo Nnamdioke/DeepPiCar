@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>22. 16-164303_orange-png.png</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\22. 16-164303_orange-png.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>1007</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange - 184 grams (87 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>152</ymin>
+			<xmax>874</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

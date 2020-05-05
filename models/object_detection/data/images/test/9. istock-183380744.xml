@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>9. istock-183380744.jpg</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\9. istock-183380744.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banana - (225 grams - 200 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>7</ymin>
+			<xmax>389</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

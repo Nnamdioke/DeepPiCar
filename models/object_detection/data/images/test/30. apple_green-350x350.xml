@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>30. apple_green-350x350.jpg</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\30. apple_green-350x350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple - (223 grams - 116 calories)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>23</ymin>
+			<xmax>340</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>
