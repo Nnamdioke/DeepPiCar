@@ -14,13 +14,13 @@
 	<object>
 		<name>banana</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>19</ymin>
+			<xmin>2</xmin>
+			<ymin>34</ymin>
 			<xmax>99</xmax>
-			<ymax>80</ymax>
+			<ymax>65</ymax>
 		</bndbox>
 	</object>
 </annotation>
