@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>68.jpg</filename>
+	<path>C:\Users\Jay\Documents\anagram\windows_v1.8.0\Images\68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>132</ymin>
+			<xmax>487</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>
